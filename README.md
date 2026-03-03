@@ -4,15 +4,6 @@
 
 <br/>
 
-<p align="center">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./introduce_dark.svg">
-      <img width="80%" src="./introduce.svg">
-    </picture>
-</p>
-
-<br/>
-
 <p align=center>
     <a href="https://wany-portfolio.vercel.app/resume" target="_blank">
      <picture>
