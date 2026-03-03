@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center">안녕하세요.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 프론트엔드 개발자 하현준입니다</h1>
+  <h1 align="center">안녕하세요.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 프론트엔드 개발자 구태완입니다.</h1>
 </p>
 
 <br/>
